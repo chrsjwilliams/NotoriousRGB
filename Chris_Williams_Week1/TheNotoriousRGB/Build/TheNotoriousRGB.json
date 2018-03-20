@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TheNotoriousRGB.data.unityweb",
+"asmCodeUrl": "TheNotoriousRGB.asm.code.unityweb",
+"asmMemoryUrl": "TheNotoriousRGB.asm.memory.unityweb",
+"asmFrameworkUrl": "TheNotoriousRGB.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080"
+}
